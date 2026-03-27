@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### 🚀 AeroPoint
+A C++ project focused on aerodynamics simulation and trajectory data processing.
+
+- **Language:** C++ (100%)
+- **Purpose:** Aerodynamics simulation and trajectory analysis tooling
+- **Repository:** [Aryaman-R/AeroPoint](https://github.com/Aryaman-R/AeroPoint)
+
 <!--
 **Aryaman-R/Aryaman-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
