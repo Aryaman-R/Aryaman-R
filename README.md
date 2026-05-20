@@ -71,7 +71,7 @@
 
 If something I built sparks an idea — or you just want to chat about AI, hardware hacks, or what to build next — I'd love to hear from you.
 
-- ✉️ **Email** · [aryamanrao.awesome@gmail.com](mailto:aryamanrao.awesome@gmail.com)
+- ✉️ **Email** · [aryamanrao.hubli@gmail.com](mailto:aryamanrao.hubli@gmail.com)
 - 💻 **Code** · [github.com/Aryaman-R](https://github.com/Aryaman-R)
 
 <sub>Thanks for stopping by. 🎈</sub>
