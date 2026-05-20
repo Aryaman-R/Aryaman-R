@@ -6,9 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:aryamanrao.awesome@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aryamanrao.awesome%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://github.com/Aryaman-R">
     <img src="https://img.shields.io/github/followers/Aryaman-R?style=flat-square&label=Follow&color=181717&logo=github" alt="GitHub followers"/>
   </a>
